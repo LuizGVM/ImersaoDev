@@ -1,0 +1,33 @@
+<html>
+<link rel="stylesheet" href="style.css">
+<head>
+    <title>
+        Imersão Dev - Aula 05
+    </title>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="page-title">
+            Aluraflix V2
+        </h1>
+        <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-aluraflix.svg" class="page-logo"
+            alt="">
+        <p class="page-subtitle">
+            Monte sua coleção de filmes
+        </p>
+        <div class="form-wrapper">
+            <input type="text" id="filme" name="filme" placeholder="Insira link do filme desejado">
+            <button onClick="adicionarFilme()">Adicionar Cartaz Filme</button>
+            <button onClick="adicionarTrailer()">Adicionar Trailer Filme</button>
+        </div>
+    </div>
+    <div id="listaFilmes"></div>
+    <a href="https://alura.com.br/" target="_blank">
+        <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
+    </a>
+    <div id="trailer"></div>
+    <script defer src="script.js"></script>
+</body>
+<script src="app.js"></script>
+</html>
