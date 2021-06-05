@@ -1,0 +1,43 @@
+https://www.youtube.com/watch?v=xvkuNF_8Coc - usando VSCode
+
+https://www.alura.com.br/artigos/html-css-e-js-definicoes - diferenças entre html, css e js
+
+https://codepen.io/imersao-dev/pen/LYxYYzm - repositório código aula 7
+
+https://www.youtube.com/watch?v=DsFb24TgJ0c - aula 1 em python
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#variáveis - mais sobre variáveis
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseFloat - mais sobre função parseFloat
+
+https://codepen.io/pedro-coelho/pen/RwKoZjR?editors=0010 - projeto referência para desafio
+
+https://codepen.io/mikeliro/pen/zYNorvM?editors=0010 - projeto referência para desafio
+
+https://codepen.io/lucsduartee/pen/gOggOzN?editors=0010 - projeto referência para desafio
+
+https://codepen.io/IgorIsaiasBanlian/pen/MWJJgQN?editors=0010 - projeto referência para desafio
+
+https://codepen.io/thyezoliveiramonteiro/pen/vYgydYx?editors=0010 - projeto referência para desafio
+
+https://codepen.io/viniciusssousa/pen/QWddpBO?editors=0010 - projeto referência para desafio
+
+https://freesound.org/ - site para conseguir os sons (precisa dar um inspect no player e pegar o link do som desejado
+
+var moldura = '<img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/card-super-trunfo-transparent.png" style=" width: inherit; height: inherit; position: absolute;">'; - manipulação do CSS pelo JS
+
+function exibeCartaJogador() {
+    var divCartaJogador = document.getElementById("carta-jogador")
+    var moldura = '<img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/card-super-trunfo-transparent.png" style=" width: inherit; height: inherit; position: absolute;">';
+    divCartaJogador.style.backgroundImage = `url(${cartaJogador.imagem})`
+    var nome = `<p class="carta-subtitle">${cartaJogador.nome}</p>`
+    var opcoesTexto = ""
+
+    for (var atributo in cartaJogador.atributos) {
+        opcoesTexto += "<input type='radio' name='atributo' value='" + atributo + "'>" + atributo + " " + cartaJogador.atributos[atributo] + "<br>"
+    }
+
+    var html = "<div id='opcoes' class='carta-status'>"
+
+    divCartaJogador.innerHTML = moldura + nome + html + opcoesTexto + '</div>'
+} - função para outra manipulação de CSS

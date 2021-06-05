@@ -1,0 +1,19 @@
+https://www.alura.com.br/artigos/codepen-o-que-e-e-como-usar
+
+https://www.alura.com.br/artigos/html-css-e-js-definicoes
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#variáveis
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseFloat
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+
+https://hipsters.tech/primeiros-passos-na-programacao-a-imersao-dev-hipsters-ponto-tech-243/
+
+https://www.youtube.com/watch?v=NaVSbnnV75Q - O que é JAVASCRIPT
+
+https://www.youtube.com/watch?v=3oSIqIqzN3M - HTML em 5 minutos
+
+https://github.com/alura-challenges/aluraquiz-base/tree/v1 - Repositório código aula 1
+
+https://codepen.io/imersao-dev/pen/ExNLJeZ - código da aula 1

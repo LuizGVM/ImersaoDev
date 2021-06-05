@@ -1,0 +1,14 @@
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#variáveis
+
+https://pt.stackoverflow.com/questions/7/qual-a-diferença-entre-os-operadores-e-em-javascript
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+
+https://hipsters.tech/primeiros-passos-na-programacao-a-imersao-dev-hipsters-ponto-tech-243/
+
+https://www.youtube.com/watch?v=NaVSbnnV75Q - O que é Javascript
+
+https://www.youtube.com/watch?v=Bmw_6oOvO3s - Evolução do Javascript
+

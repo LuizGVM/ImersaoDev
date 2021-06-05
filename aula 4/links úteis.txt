@@ -1,0 +1,3 @@
+https://www.imdb.com/ - para achar imagens dos filmes
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array

@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=c8Zac9hWbs8 - vídeo extra sobre interações
+
+https://www.youtube.com/watch?v=DsFb24TgJ0c - refazendo a aula 1 com python
+
+https://www.youtube.com/watch?v=xvkuNF_8Coc - abrir o CodePen com VSCode
+
+https://www.tc.df.gov.br/ice4/vordf/outros/html-comandos.html#:~:text=Se%20voc%C3%AA%20quiser%20especificar%20a,dentro%20da%20tag%20.&text=Mesmo%20que%20voc%C3%AA%20atribua%20uma,texto%20usando%20as%20tags%20acima - alterações em CSS
+
+https://developers.google.com/youtube/player_parameters?hl=pt-br - como adicionar vídeos do youtube no programa
+
+https://www.codigofonte.com.br/codigos/validar-link-video-youtube - validar link de vídeo do youtube
+
+https://www.hostinger.com.br/tutoriais/o-que-e-iframe - o que é iframe

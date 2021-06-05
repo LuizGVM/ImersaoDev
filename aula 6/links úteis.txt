@@ -1,0 +1,15 @@
+https://www.alura.com.br/artigos/html-css-e-js-definicoes
+
+https://codepen.io/imersao-dev/pen/KKaKKKK - repositório aula 5
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#variáveis - mais sobre variáveis
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseFloat - função parseFloat
+
+https://www.youtube.com/watch?v=xvkuNF_8Coc - usando VSCode
+
+https://www.youtube.com/watch?v=DsFb24TgJ0c - primeira aula da imersão com python
+
+https://hipsters.tech/primeiros-passos-na-programacao-a-imersao-dev-hipsters-ponto-tech-243/ - primeiros passos na programação
+
+https://www.youtube.com/watch?v=3oSIqIqzN3M - 5 minutos de HTML para iniciar em programação  

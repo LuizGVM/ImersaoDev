@@ -1,0 +1,15 @@
+https://codepen.io/imersao-dev/pen/qBRBBrx - repositório de código aula 6
+
+https://www.alura.com.br/artigos/html-css-e-js-definicoes - diferenças entre html, css e js
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseFloat - mais sobre a função parseFloat
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript - js segundo a documentaçãoo
+
+https://hipsters.tech/primeiros-passos-na-programacao-a-imersao-dev-hipsters-ponto-tech-243/ - primeiros passos na programação
+
+https://www.youtube.com/watch?v=3oSIqIqzN3M - 5 minutos de html
+
+https://codepen.io/pedro-coelho/pen/RwKoZjR?editors=0010 - projeto referência para desafio
+
+https://codepen.io/mikeliro/pen/zYNorvM?editors=0010 - projeto referência para desafio
